@@ -1,3 +1,4 @@
+![micro-blog](https://user-images.githubusercontent.com/44240533/226492851-1957b205-fe04-4c10-88e1-3167fdf248b0.svg)
 # Micro Blog
 
 Welcome to Micro Blog on Exercism's Java Track.
